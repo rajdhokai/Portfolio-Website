@@ -45,7 +45,7 @@ const Navbar = () => {
             <FaLinkedin className="w-6 h-6" />
           </a>
           <a
-            href="https://www.instagram.com/raj__dhokai/"
+            href="https://www.instagram.com/codedwraith/"
             target="_blank"
             rel="noopener noreferrer"
           >
